@@ -3,4 +3,4 @@
 - 💕 I'm interested in front-end developer;
 - 💻 I'm currently learning Angular and JavaScript;
 - 🤝🏻 I'm looking  to collaborate on Front-end or FullStack;
-- 📥 To contact me: Email: carlamartinspaiva0207@gmail.com;
+- 📥 To contact me: Email: carlamartinspaiva02@hotmail.com;
